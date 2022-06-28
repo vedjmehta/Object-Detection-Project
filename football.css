@@ -1,0 +1,26 @@
+
+#football_body {
+
+    align-items: center;
+    text-align: center;
+    background-color: lightblue;
+    
+}
+
+#back_button {
+    float: right;
+    border-radius: 10px;
+}
+
+#status
+{
+font-size: 18px;
+width: 30%;
+height: 5%;
+}
+
+h1{
+    
+    width: 15%;
+    
+}
